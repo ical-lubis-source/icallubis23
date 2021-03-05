@@ -1,0 +1,41 @@
+
+
+body{
+    background-color: #6FA68C;
+    font-family: Zilla Slab;
+}
+
+.cont{
+   background-color: lightskyblue;
+}
+
+.jumbotron{
+padding-top: 6rem;
+background-color: #D7D7D9;
+}
+
+
+#projects{
+    background-color: #D7D7D9;
+}
+
+.footer{
+    background-color: #D7D7D9;
+}
+
+.fab{
+    color: #60A6A6;
+}
+
+section{
+padding-top: 6rem;
+
+}
+
+.progress-bar{
+    background-color: #60A6A6;
+}
+
+.ab{
+    background-color: #ADD9C5 ;
+}
